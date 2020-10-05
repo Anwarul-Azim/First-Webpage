@@ -120,9 +120,20 @@ aside#sidebar{
     width: 30%;
     margin-top: 10px;
 }
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+    width: 90%;
+
+}
 article#main-col{
     float: left;
     width: 65%;
+}
+ul#services li{
+    list-style: none;
+    padding: 20px;
+    border: #cccccc solid 1px;
+    margin-bottom: 5px;
+    background: #84d4a52c;
 }
 footer{
     padding:10px;
